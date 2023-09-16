@@ -1,66 +1,74 @@
 [
-    {
-      "img": "https://i.ibb.co/qym9wVF/intro-to-programming.jpg",
-      "name": "Introduction to Programming",
-      "credit": 1,
-      "price": 15000,
-      "details": "Learn the basics of programming with this comprehensive introductory course."
-    },
-    {
-      "img": "https://i.ibb.co/s1vLWG1/web-programming-bootcamp.jpg",
-      "name": "Web Development Bootcamp",
-      "credit": 2,
-      "price": 25000,
-      "details": "Master web development with this intensive bootcamp covering HTML, CSS, JavaScript, and more."
-    },
-    {
-      "img": "https://i.ibb.co/qjMhktV/data-science-fundamentals.jpg",
-      "name": "Data Science Fundamentals",
-      "credit": 10,
-      "price": 10000,
-      "details": "Dive into data science and analytics with this foundational course."
-    },
-    {
-      "img": "https://i.ibb.co/0rMPrrt/digital-marketting-mastery.jpg",
-      "name": "Digital Marketing Mastery",
-      "credit": 5,
-      "price": 35000,
-      "details": "Become a digital marketing expert with this in-depth course on online advertising and promotion."
-    },
-    {
-      "img": "https://i.ibb.co/bvLtxXw/graphic-design-essentials.jpg",
-      "name": "Graphic Design Essentials",
-      "credit": 5,
-      "price": 19000,
-      "details": "Learn the fundamentals of graphic design, including tools and techniques."
-    },
-    {
-      "img": "https://i.ibb.co/5kzWkFh/business-management-strategies.jpg",
-      "name": "Business Management Strategies",
-      "credit": 2,
-      "price": 23000,
-      "details": "Develop essential business management skills and strategies with this course."
-    },
-    {
-      "img": "https://i.ibb.co/Z8r5ppb/photography-for-beginners.jpg",
-      "name": "Photography for Beginners",
-      "credit": 5,
-      "price": 35000,
-      "details": "Start your photography journey with this beginner-friendly course."
-    },
-    {
-      "img": "https://i.ibb.co/hyBGynN/mobile-app-development.jpg",
-      "name": "Mobile App Development",
-      "credit": 5,
-      "price": 19000,
-      "details": "Build mobile apps for Android and iOS with this comprehensive development course."
-    },
-    {
-      "img": "https://i.ibb.co/fQGDJQM/ai-and-ml.jpg",
-      "name": "Artificial Intelligence and Machine Learning",
-      "credit": 2,
-      "price": 23000,
-      "details": "Explore AI and machine learning concepts and applications in this advanced course."
-    }
-  ]
-  
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/qym9wVF/intro-to-programming.jpg",
+    "name": "Introduction to Programming",
+    "credit": 1,
+    "price": 15000,
+    "details": "Learn the basics of programming with this comprehensive introductory course."
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/s1vLWG1/web-programming-bootcamp.jpg",
+    "name": "Web Development Bootcamp",
+    "credit": 2,
+    "price": 25000,
+    "details": "Master web development with this intensive bootcamp covering HTML, CSS, JavaScript, and more."
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/qjMhktV/data-science-fundamentals.jpg",
+    "name": "Data Science Fundamentals",
+    "credit": 10,
+    "price": 10000,
+    "details": "Dive into data science and analytics with this foundational course."
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/0rMPrrt/digital-marketting-mastery.jpg",
+    "name": "Digital Marketing Mastery",
+    "credit": 5,
+    "price": 35000,
+    "details": "Become a digital marketing expert with this in-depth course on online advertising and promotion."
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/bvLtxXw/graphic-design-essentials.jpg",
+    "name": "Graphic Design Essentials",
+    "credit": 5,
+    "price": 19000,
+    "details": "Learn the fundamentals of graphic design, including tools and techniques."
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/5kzWkFh/business-management-strategies.jpg",
+    "name": "Business Management Strategies",
+    "credit": 2,
+    "price": 23000,
+    "details": "Develop essential business management skills and strategies with this course."
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/Z8r5ppb/photography-for-beginners.jpg",
+    "name": "Photography for Beginners",
+    "credit": 5,
+    "price": 35000,
+    "details": "Start your photography journey with this beginner-friendly course."
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/hyBGynN/mobile-app-development.jpg",
+    "name": "Mobile App Development",
+    "credit": 5,
+    "price": 19000,
+    "details": "Build mobile apps for Android and iOS with this comprehensive development course."
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co/fQGDJQM/ai-and-ml.jpg",
+    "name": "Artificial Intelligence and Machine Learning",
+    "credit": 2,
+    "price": 23000,
+    "details": "Explore AI and machine learning concepts and applications in this advanced course."
+  }
+]

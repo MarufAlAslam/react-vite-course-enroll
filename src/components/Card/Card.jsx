@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import dollar from "../../assets/dollar.svg";
 import credit from "../../assets/credit.svg";
-const Card = ({ data }) => {
+const Card = ({ data, handleSelect }) => {
   return (
     <div className="bg-white p-4 rounded-[12px] flex flex-col justify-between items-center gap-4 h-full">
       <div className="top">
@@ -25,7 +25,7 @@ const Card = ({ data }) => {
             </p>
           </div>
         </div>
-        <button className="btn w-full font-[600] text-lg bg-[#2F80ED] hover:bg-[#275899] text-white rounded-[8px] mt-[25px] p-[10px]">
+        <button onClick={()=>handleSelect(data.id)} className="btn w-full font-[600] text-lg bg-[#2F80ED] hover:bg-[#275899] text-white rounded-[8px] mt-[25px] p-[10px]">
           Select
         </button>
       </div>
