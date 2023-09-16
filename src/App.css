@@ -4,3 +4,6 @@
   margin: 0 auto;
   padding: 0 15px;
 }
+.btn{
+  transition: 0.5s;
+}
